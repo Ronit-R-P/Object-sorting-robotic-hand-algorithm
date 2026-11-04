@@ -13,6 +13,8 @@ The system further integrates object color detection and classification, enablin
 
 The project demonstrates how hand motion retargeting combined with vision-based object recognition can provide an intuitive framework for robotic manipulation without requiring extensive robot programming.
 
+video: https://drive.google.com/file/d/1Db1mymY3WHe-386UWCCORtM7ovbT9ORJ/view?usp=sharing
+
 ## ✨ Key Features
 
 Human Hand Motion Capture
