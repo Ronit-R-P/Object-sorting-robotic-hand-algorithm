@@ -54,8 +54,3 @@ Color-based placement
 ├── requirements.txt         
 └── README.md                
 
-
-
-## 🙏 Acknowledgements
-
-* Mujoco for the robust physics simulation.
